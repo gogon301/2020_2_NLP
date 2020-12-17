@@ -5,7 +5,7 @@
 
 
 - 실행 방법<br>
-   *1. 데이터 준비<br>
+   *1. 데이터 준비(구글 드라이버를 통한 파일 업로드)<br>
    *2. 데이터 전처리<br>
    *3. 모델 구현 및 학습<br>
    *4. 테스트 세트 결과 확인<br>
@@ -31,7 +31,7 @@
 
 
 - 실행 방법<br>
-   *1. friends_train.json. friends_dev.json,, friends_test.json을 압축 한 파일 <br>
+   *1. friends_train.json. friends_dev.json,, friends_test.json을 압축 한 파일 (구글 드라이버를 통한 파일 업로드)<br>
    *2. 데이터 전처리<br>
    *3. 모델 구현 및 학습<br>
    *4. 테스트 세트 결과 확인<br>
