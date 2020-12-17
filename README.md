@@ -21,7 +21,8 @@
 
 
 - 참고 문헌 및 코드<br>
-  KoELECTRA 참고 소스 코드 => https://blog.naver.com/horajjan/221739630055
+  KoELECTRA 참고 소스 코드<br>
+  *https://blog.naver.com/horajjan/221739630055
 
 
 # 2. [영어] Freinds 감정 분석
@@ -47,4 +48,5 @@
 
 
 - 참고 문헌 및 코드<br>
-  KoELECTRA 참고 소스 코드 => https://blog.naver.com/horajjan/221739630055
+  KoELECTRA 참고 소스 코드<br>
+  *https://blog.naver.com/horajjan/221739630055
